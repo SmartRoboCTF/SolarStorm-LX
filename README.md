@@ -22,6 +22,11 @@ You are dropped into a network where your only clue is a domain name. Your objec
 > ⚠️ Trust no artifact. Treat every script as a suspect. You only get one shot.
 
 ---
+This CTF machine is designed based on:
+
+- **MITRE ATT&CK® Framework** – Tactics include: Initial Access, Persistence, Defense Evasion, Privilege Escalation, and Command & Control.
+- **NIST Cybersecurity Framework (CSF)** – Covers all five core functions: Identify, Protect, Detect, Respond, and Recover.
+
 
 ## 📥 Download the Machine
 
